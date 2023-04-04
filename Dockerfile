@@ -1,2 +1,2 @@
-FROM cwhuntx/dl1hellbot:latest
+FROM cwhuntx/kitoc:latest
 EXPOSE 80
